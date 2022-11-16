@@ -100,7 +100,6 @@ def main():
         multi_ip(iparray)
 
 print("===========================================================")
-print("Camahsa BY Nic")
-print("#mahsaamini")
+print("Cctv finder By NIC")
 print("===========================================================")
 main()
